@@ -2,3 +2,5 @@
 - https://twpower.github.io/119-python-list-slicing-examples
 ### python 정렬 총정리 docs
 - https://docs.python.org/ko/3/howto/sorting.html
+### python 정규 표현식
+- http://pythonstudy.xyz/python/article/401-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84%EC%8B%9D-Regex
