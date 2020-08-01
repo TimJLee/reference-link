@@ -14,3 +14,5 @@
 - https://creakycogwheel.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90%ED%9E%99%EB%8A%94-%EC%99%9C-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C
 ### indexOf - 특정 문자 위치 찾기
 - https://mine-it-record.tistory.com/124
+### Set 의 종류
+- https://flatsun.tistory.com/67
