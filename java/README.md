@@ -22,3 +22,5 @@
 - https://nota.tistory.com/49
 ### 형변환 모음
 - https://coding-factory.tistory.com/130
+### toBinaryString
+- https://www.javatpoint.com/java-decimal-to-binary
