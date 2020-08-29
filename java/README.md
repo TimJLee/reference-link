@@ -24,3 +24,5 @@
 - https://coding-factory.tistory.com/130
 ### toBinaryString
 - https://www.javatpoint.com/java-decimal-to-binary
+### bitCount
+- https://www.geeksforgeeks.org/java-integer-bitcount-method/
