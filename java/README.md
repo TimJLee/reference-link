@@ -26,3 +26,5 @@
 - https://www.javatpoint.com/java-decimal-to-binary
 ### bitCount
 - https://www.geeksforgeeks.org/java-integer-bitcount-method/
+### collections sort by double with class
+- https://stackoverflow.com/questions/13434143/sorting-a-double-value-of-an-object-within-an-arraylist
