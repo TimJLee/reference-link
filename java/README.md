@@ -30,3 +30,5 @@
 - https://stackoverflow.com/questions/13434143/sorting-a-double-value-of-an-object-within-an-arraylist
 ### 유용한 문자열 치환
 - https://coding-factory.tistory.com/128
+### string 에 공백 집어넣기
+- https://stackoverflow.com/questions/5249566/adding-whitespace-in-java
