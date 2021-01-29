@@ -3,3 +3,7 @@
 git config --global user.name "Your Name"
 git config --global user.email
 ```
+id, email 확인
+~~~
+git config --list --show-origin
+~~~
