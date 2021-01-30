@@ -1,4 +1,4 @@
-# vs-code 에서 react 사용 할 때, eslint 오류 해결법
+# vs-code 에서 react 사용 할 때, eslint 오류 해결법 (Failed to apply eslint fixes to the document)
 > **vscode 에서 cannot find eslint-plugin-react 에러**  
 아래 코드를 settings.json 에 추가 
 ~~~
